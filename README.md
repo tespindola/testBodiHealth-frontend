@@ -1,3 +1,6 @@
+# Requirements
+Node > 16.17
+
 ## Project Setup
 
 ```sh
